@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+.inc_delivery,
+.inc_mwst {
+	font-size:8px;
+	display:inline-block;
+	
+}
+
+
+.inc_delivery{
+	margin-left:10px;
+}
+
+.inc_delivery::after {
+	content: ", "
+}
