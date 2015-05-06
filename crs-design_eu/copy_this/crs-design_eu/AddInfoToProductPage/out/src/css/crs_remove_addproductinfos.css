@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+.inc_delivery,
+.inc_mwst {	
+}
+
+
+.inc_delivery{
+}
+
+.inc_delivery::after {
+}
+
+.additionalInfo span:nth-child(3){
+	border-left:0px !important;
+}

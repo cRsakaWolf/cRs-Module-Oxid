@@ -28,8 +28,8 @@ $aModule = array (
 	'email'			=> 'info@crs-design.eu',
 	'url'			=> 'http://www.crs-design.eu',
 	'extend'       => array(
-		'oxwarticledetails'				=> '/crs-design_eu/Removepricealert/components/widgets/crs_removepricealarm_oxwarticledetails',
-		'details'						=> '/crs-design_eu/Removepricealert/controllers/crs_removepricealarm_details',
+		'oxwarticledetails'		=> 'crs-design_eu/Removepricealert/components/widgets/crs_removepricealarm_oxwarticledetails',
+		'details'				=> 'crs-design_eu/Removepricealert/controllers/crs_removepricealarm_details',
 	),
 )
 ?>
